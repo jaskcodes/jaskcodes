@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 Thanks for visiting my Github.
 
 <!--
 **jaskcodes/jaskcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+-->
+I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/) grad student at the University of Chicago 🎓
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     Analyzing climate change patterns to determine people's sentiments and understanding of climate change
+      
+- 🌱 I’m currently learning ... django, dash, building dashboards
+
+## Past Projects
+
+_Many repositories from school projects are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request._
+
+- Recursive Treemap Algorithm Implementation
+- Markov Models for Text Attribution
+- Web Scraping & Web Crawlers with Spatula
+- Basic Web Search Backend from Linked and Created Database with SQLite and Flask 🪶
+- Record Linkage Algorithms
+- Analyzing Avian Diversity using Recursive Treemaps
+- Linear Regression using Numpy
+- Polling Precinct Simulation using M/M/N Queues
+- Analyzing Political Tweets using NLP
+- Modeling Language Shifts using Moore Neighborhoods
+- Epidemic Simulation using the SIR Model
