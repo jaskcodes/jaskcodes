@@ -8,7 +8,7 @@
 I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/) grad student at the University of Chicago 🎓
 
 - 🔭 I’m currently working on ...
-     Analyzing climate change sentiments of people before and after an extreme weather event(https://github.com/uchicago-capp122-spring23/30122-project-hot-or-not)
+     [Analyzing climate change sentiments of people before and after an extreme weather event](https://github.com/uchicago-capp122-spring23/30122-project-hot-or-not)
       
 - 🌱 I’m currently learning ... django, dash, building dashboards
 
