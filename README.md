@@ -8,11 +8,13 @@
 I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/) grad student at the University of Chicago 🎓
 
 - 🔭 I’m currently working on ...
-     [Analyzing climate change sentiments of people before and after an extreme weather event](https://github.com/uchicago-capp122-spring23/30122-project-hot-or-not)
+     [Computer Vision project on predicting Pneumonia from X-Ray Image]([(https://github.com/ethanarsht/detective-dogs/tree/main)])
       
 - 🌱 I’m currently learning ... django, dash, building dashboards
 
 ## Past Projects
+
+ [Analyzing climate change sentiments of people before and after an extreme weather event](https://github.com/uchicago-capp122-spring23/30122-project-hot-or-not)
 
 _Many repositories from school projects are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request._
 
