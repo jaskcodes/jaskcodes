@@ -7,7 +7,7 @@
 -->
 I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/) grad student at the University of Chicago 🎓
 
-- 🔭 I’m currently working as a Data Science intern with [deep_dive](https://dive.ai/) on Financial sector and FMCG projects
+- I’m currently working as a Data Science intern with [deep_dive](https://dive.ai/) on Financial sector and FMCG projects
      
 - I also worked with [Center for Applied AI, Booth School of Business](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence) where I developed a Python package for an interactive online baking assistant
   
