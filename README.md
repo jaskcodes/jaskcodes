@@ -12,6 +12,7 @@ I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/
 
 - I also worked as a Data Science intern with [deep_dive](https://dive.ai/) on Financial sector and FMCG projects
 ## Past Projects
+- [Modeling Lake Evaporation Rates and Water Body Prediction](https://github.com/jaskcodes/lake-my-breadth-away/tree/main)
 - [M-Passport- Submission for MIT Policy Hackathon](https://github.com/jaskcodes/MIT-Policy-Hackathon)
 - [AI Math Tutor for Elementary students](https://github.com/jaskcodes/mathlete)
 - [Computer Vision project on predicting Pneumonia from X-Ray Image](https://github.com/ethanarsht/detective-dogs/tree/main)
