@@ -16,6 +16,7 @@ I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/
 - [Modeling Lake Evaporation Rates and Water Body Prediction](https://github.com/jaskcodes/lake-my-breadth-away/tree/main)
 - [M-Passport- Submission for MIT Policy Hackathon](https://github.com/jaskcodes/MIT-Policy-Hackathon)
 - [AI Math Tutor for Elementary students](https://github.com/jaskcodes/mathlete)
+- [Music Creation through Non Negative Matrix Factorization](https://github.com/jaskcodes/NMF-Music-Project/tree/main)
 - [Computer Vision project on predicting Pneumonia from X-Ray Image](https://github.com/ethanarsht/detective-dogs/tree/main)
 - [Analyzing climate change sentiments of people before and after an extreme weather event](https://github.com/uchicago-capp122-spring23/30122-project-hot-or-not)
  
