@@ -11,7 +11,7 @@ I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/
 - I worked as an AI Research Assistant with [Center for Applied AI, Booth School of Business](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence) where I built a pipeline for LLMs to interact with and assess the performance of AI Math Tutors. I also developed a Python package for an interactive [online baking assistant](http://cookies-ui.s3-website-us-east-1.amazonaws.com/home).
 - Passionate about education, I served as a Teaching Assistant for courses in Linear Algebra and Program Evaluation. You can find my work [here](https://github.com/jaskcodes/TAship-work).
 
-- I also worked as a Data Science intern with [deep_dive](https://dive.ai/) on Financial sector and FMCG projects
+- I have also worked with [deep_dive](https://dive.ai/) as a Data Scientist on their Financial sector and FMCG projects.
 ## Past Projects
 - [Modeling Lake Evaporation Rates and Water Body Prediction](https://github.com/jaskcodes/lake-my-breadth-away/tree/main)
 - [M-Passport- Submission for MIT Policy Hackathon](https://github.com/jaskcodes/MIT-Policy-Hackathon)
