@@ -13,6 +13,7 @@ I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/
 
 - I have also worked with [deep_dive](https://dive.ai/) as a Data Scientist on their Financial sector and FMCG projects.
 ## Past Projects
+- [Elec-transit-y: Modeling EV charging station locations in NYC](https://github.com/jaskcodes/elec-transit-y/tree/main)
 - [Reef Madness: Deep Learning Project on Protecting Coral Reefs](https://github.com/QilinZhou56/VME_Detector/tree/main)
 - [Modeling Lake Evaporation Rates and Water Body Prediction](https://github.com/jaskcodes/lake-my-breadth-away/tree/main)
 - [M-Passport- Submission for MIT Policy Hackathon](https://github.com/jaskcodes/MIT-Policy-Hackathon)
