@@ -9,10 +9,11 @@ I'm Jaskirat Kaur, a [Computer Science/Public Policy](https://capp.uchicago.edu/
 - I am currently working with Pacificorp's Energy Supply Management team where I am exploring applications of Reinforcement Learning and Stochastic Processes to optimize bidding strategies for power and gas traders and reduce load forecasting error.
 - I previously worked as a Data Science Intern with [Invenergy](https://invenergy.com/) where I am improving the wind power forecasts using prediction intervals and tree based models like Random Forest and XGBoost.
 - I worked as an AI Research Assistant with [Center for Applied AI, Booth School of Business](https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence) where I built a pipeline for LLMs to interact with and assess the performance of AI Math Tutors. I also developed a Python package for an interactive [online baking assistant](http://cookies-ui.s3-website-us-east-1.amazonaws.com/home).
-- I served as a Teaching Assistant for courses in Linear Algebra and Program Evaluation. You can find my work [here](https://github.com/jaskcodes/TAship-work)
-- Currently reading: Chaos, The Information by James Gleick
-  
+- I served as a Teaching Assistant for courses in Linear Algebra and Program Evaluation. You can find my work [here](https://github.com/jaskcodes/TAship-work)  
 - I have also worked with [deep_dive](https://dive.ai/) as a Data Scientist on their Financial sector and FMCG projects.
+
+- - Currently reading: Chaos, The Information by James Gleick
+
 ## Past Projects
 - [Elec-transit-y: Large Scale Computing project on modeling EV charging station locations in NYC](https://github.com/jaskcodes/elec-transit-y/tree/main)
 - [Reef Madness: Deep Learning Project on Protecting Coral Reefs](https://github.com/QilinZhou56/VME_Detector/tree/main)
